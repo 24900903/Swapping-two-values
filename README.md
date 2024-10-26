@@ -19,7 +19,6 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 
-![image](https://github.com/user-attachments/assets/2ead7a35-f99f-4462-ab2f-2616cee940c0)
 
 
 ## RESULT:
